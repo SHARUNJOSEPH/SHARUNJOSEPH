@@ -25,14 +25,14 @@
 <a href="https://www.linkedin.com/in/joseph-sharun-68a715204">
   <img align="left" alt="Sharun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://discord.gg/sharun#1693">
+<a href="https://discord.gg/sharun">
   <img align="left" alt="sharun#1693 Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="">
+<a href="https://github.com/SHARUNJOSEPH">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="">
+<a href="https://github.com/SHARUNJOSEPH">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
