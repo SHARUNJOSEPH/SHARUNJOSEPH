@@ -1,6 +1,6 @@
 <h2> Hi, I'm Sharun Joseph ! <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
-<p><em>Aspiring Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>MERN developer focusing on Node.js</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
+<p><em>Aspiring Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>MEAN developer focusing on Node.js</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="75">
 <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"> 
 <!-- <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="150"> 
