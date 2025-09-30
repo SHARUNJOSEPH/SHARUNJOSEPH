@@ -22,7 +22,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
 
-<a href="https://www.linkedin.com/in/joseph-sharun-68a715204">
+<a href="https://www.linkedin.com/in/joseph-sharun/">
   <img align="left" alt="Sharun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://discord.gg/TZpZqrXv">
