@@ -24,7 +24,7 @@
 
 <a href="https://www.linkedin.com/in/joseph-sharun/">
 
-</svg>
+<!-- </svg>
   <img align="left" alt="Sharun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://discord.gg/TZpZqrXv">
@@ -36,7 +36,7 @@
 
 <a href="https://github.com/SHARUNJOSEPH">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 
 <br />
 
