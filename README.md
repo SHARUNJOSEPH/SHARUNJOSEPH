@@ -1,70 +1,40 @@
-<h2> Hi, I'm Sharun Joseph ! <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
-<p><em>Aspiring Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>MERN/MEAN developer focusing on Node.js</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="75">
-<img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"> 
-<!-- <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="150"> 
- -->
-</em></p>
+<div align="center">
 
+  <!-- RETRO ARCADE HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a103c,50:2b1055,100:591a75&height=160&section=header&text=%E2%9A%94%EF%B8%8F%20PLAYER%201:%20SHARUN%20JOSEPH%20%E2%9A%94%EF%B8%8F&fontSize=40&fontColor=00ffff&animation=fadeIn&desc=CLASS:%20FULL-STACK%20WARLOCK%20%E2%80%A2%20LEVEL%2024%20%E2%80%A2%20MERN%20SPECIALIST&descSize=16&descAlignY=75" width="100%" alt="Character Banner" />
 
-**languages and tools:**  
+  <br/>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br />
+  <!-- PARTY STATUS PILL -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/PARTY%20STATUS-🟢%20RECRUITING%20FOR%20NEW%20QUESTS-00ffff?style=for-the-badge&labelColor=0d1117" alt="Status" />
+    <img src="https://img.shields.io/badge/SERVER-INDIA%20[GLOBAL%20REMOTE]-ff007f?style=for-the-badge&labelColor=0d1117" alt="Server" />
+  </p>
 
-<a href="https://www.linkedin.com/in/joseph-sharun/">
+  <!-- MULTIPLAYER LINKS (PARTY INVITE) -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/joseph-sharun/"><img src="https://img.shields.io/badge/Guild-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/SHARUNJOSEPH"><img src="https://img.shields.io/badge/Codex-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://discord.gg/TZpZqrXv"><img src="https://img.shields.io/badge/Voice%20Chat-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://www.buymeacoffee.com/sharun"><img src="https://img.shields.io/badge/Send%20Potion-Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  </p>
 
-<!-- </svg>
-  <img align="left" alt="Sharun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://discord.gg/TZpZqrXv">
-  <img align="left" alt="sharun#1693 Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://github.com/SHARUNJOSEPH">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://github.com/SHARUNJOSEPH">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
-
-<br />
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const SHARUN = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, MERN stack],
-  
-
- challenge: "I am constantly in pursuit of knowledge through learning
-             and trying various languages, technologies and implementations; "
-}
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=SHARUNJOSEPH&show_icons=true&theme=gotham" alt="Steven-Chris" />
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<br />
-
-i'm a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/sharun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
+</div>
 
 ---
+
+### 🎮 Character Vitals & Attribute Radar
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>📜 Character Bio</h3>
+      <p>
+        A battle-hardened <b>Full-Stack Developer</b> who specializes in taming chaotic codebases and forging scalable backends with <b>Node.js</b> and <b>MERN Stack</b> magic. Passionate about open-source guilds, rapid prototyping, and clean architecture.
+      </p>
+      
+```text
+[HP] Bug Resistance   : [████████████████████] 100/100
+[MP] Mental Focus     : [█████████████████░░░] 88/100
+[XP] Continuous Learn : [██████████████████░░] 94%
+[☕] Caffeine Buffer   : [████████████████████] OVERCLOCKED
